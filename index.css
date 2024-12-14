@@ -1,0 +1,17 @@
+body{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    min-height: 90vh;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+
+}
+td,th,caption{
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 0.5rem;
+
+}
